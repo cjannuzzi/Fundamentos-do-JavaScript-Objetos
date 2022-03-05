@@ -7,4 +7,4 @@ const cliente = {
     idade: 36,
     cpf: "1235678954",
     email: "andre@gmail.com"
-}
+};
