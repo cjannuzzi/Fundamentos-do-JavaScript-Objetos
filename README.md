@@ -26,3 +26,9 @@ Acessar a lsita de números de telefne das pessoas cadastradas no sistema e impr
 
 5º Desafio - Compondo um objeto
 Adicionar dependentes para um dos clientes cadastrados, com nome, idade e parentesco.
+
+6º Desafio - Lista de dependentes
+Verificar a melhor forma de agregar a informação de um novo dependente ao objeto Cliente.
+
+7º Desafio - Fazendo depósitos
+Adicionar uma propriedade que permita "ações", para que os clientes que estão cadastrados consigam fazer operações bancárias.
