@@ -7,7 +7,7 @@ const objPersonagem = {
 const objPersonagem2 = Object.create(objPersonagem);
 objPersonagem2.nome = "Gandalf, o Cinzento";
 
-// console.log(objPersonagem.nome); //Gandalf
-// console.log(objPersonagem2.nome); //Gandalf, o Cinzento
+// console.log(objPersonagem.nome);
+// console.log(objPersonagem2.nome); 
 
 console.log(objPersonagem2);
