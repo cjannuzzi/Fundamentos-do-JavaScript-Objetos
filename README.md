@@ -32,3 +32,9 @@ Verificar a melhor forma de agregar a informação de um novo dependente ao obje
 
 7º Desafio - Fazendo depósitos
 Adicionar uma propriedade que permita "ações", para que os clientes que estão cadastrados consigam fazer operações bancárias.
+
+8º Desafio - Puxando relatório
+Percorrer um objeto e extrair informações do cliente em um formato mais legível e de forma automatizada para fornecer a outros departamentos do banco.
+
+9º Desafio - Oferta de Seguro
+Percorrer um objeto, verificar se existe a chave `dependentes` e, caso exista, enviar uma mensagem de oferta de seguro.
